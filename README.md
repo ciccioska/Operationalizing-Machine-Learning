@@ -24,6 +24,8 @@ This project is the final process of the second part of Operationalizing Machine
 
 **Documentation:** the content of this document with all the information discovered.
 
+## Steps executed and screenshots
+
 *Automated ML Experiment*: we create a dataset form the csv storein this [path](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv), then we created an experiment to find the best model.
 
 ![dataset](images/dataset.png)
